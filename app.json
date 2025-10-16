@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "p3",
-    "slug": "p3",
+    "name": "QuizBankMobile",
+    "slug": "QuizBankMobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
